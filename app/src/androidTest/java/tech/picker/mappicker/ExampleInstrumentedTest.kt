@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("dev.hackwithsodiq.mappicker", appContext.packageName)
+        assertEquals("tech.picker.mappicker", appContext.packageName)
     }
 }
