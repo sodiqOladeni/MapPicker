@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapPicker</string>
+    <string name="go_to_picker">Go to MapPicker</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="mappicker_app_name">MapPicker</string>
+    <string name="mappicker_select_location">Select current location</string>
+    <string name="mappicker_search">Search</string>
+    <string name="mappicker_operation_cancelled">Operation Cancelled</string>
+    <string name="mappicker_error_fetching_location">Error fetching user location</string>
+    <string name="mappicker_no_api_key">API key not added to the manifest</string>
+</resources>
