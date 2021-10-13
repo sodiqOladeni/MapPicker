@@ -8,7 +8,6 @@ plugins {
 android {
     compileSdkVersion 30
     buildToolsVersion "31.0.0"
-    resourcePrefix "mappicker_"
 
     defaultConfig {
         minSdkVersion 16

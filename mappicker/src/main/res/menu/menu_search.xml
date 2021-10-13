@@ -5,6 +5,6 @@
             android:icon="@drawable/ic_baseline_search_24"
             android:orderInCategory="1"
             android:visible="true"
-            android:title="@string/search"
+            android:title="@string/mappicker_search"
             app:showAsAction="always" />
 </menu>
